@@ -1,0 +1,86 @@
+
+/*
+    Created on : 2017-05-24, 09:36:24
+    Author     : MAC
+*/
+body, html{
+
+}
+
+#left-top{
+    background-image: url("pat4.jpg");
+    border: solid 1px;
+    padding: 35px;
+    font-family: 'Permanent Marker', cursive;
+    color: whitesmoke;
+
+}
+.name{
+    text-align: center;
+    font-size: 72px;
+    font-family: 'Lobster', cursive;
+
+}
+#left{
+
+    background-image: url("pat4.jpg");
+    border: solid 1px;
+    padding: auto;
+    font-family: 'Permanent Marker', cursive;
+
+    color: whitesmoke;
+
+
+}
+.photo{
+    margin: 21%;
+    width: 50%;
+    border: groove 8px;
+    border-color: #ff6666;
+    border-radius: 50%;
+}
+.info{
+    text-align: center;
+    border-top: solid 3px;
+
+
+
+}
+.contact{
+    text-align: center;
+    border-top: solid 3px;
+
+}
+.skills{
+    text-align: left;
+    border-top:solid 3px;
+}
+
+#right{
+    text-align: left;
+    font: serif;
+    font-size: 23px;
+    margin-left: 5px;
+}
+
+#expirience{
+    text-align: left;
+    border-top:solid 3px;
+}
+#education{
+    text-align: left;
+    border-top:solid 3px;
+}
+#language{
+    text-align: left;
+    border-top:solid 3px;
+}
+#hobby{
+    text-align: left;
+    border-top:solid 3px;
+}
+
+#permission{
+    text-align: left;
+    border-top:solid 3px;
+}
